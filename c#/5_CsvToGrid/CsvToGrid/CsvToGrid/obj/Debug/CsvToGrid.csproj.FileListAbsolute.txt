@@ -1,0 +1,9 @@
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\bin\Debug\CsvToGrid.exe.config
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\bin\Debug\CsvToGrid.exe
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\bin\Debug\CsvToGrid.pdb
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.csprojAssemblyReference.cache
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.Form1.resources
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.Properties.Resources.resources
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.csproj.GenerateResource.cache
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.exe
+D:\Jessie\HW\C#\作業5\CsvToGrid\CsvToGrid\obj\Debug\CsvToGrid.pdb

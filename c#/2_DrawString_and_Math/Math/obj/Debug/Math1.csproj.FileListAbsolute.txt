@@ -1,0 +1,9 @@
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\bin\Debug\Math1.exe.config
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\bin\Debug\Math1.exe
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\bin\Debug\Math1.pdb
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.csprojAssemblyReference.cache
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.Properties.Resources.resources
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.csproj.GenerateResource.cache
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.exe
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.pdb
+D:\Jessie\HW\C#\DrawString_and_Math\Math1\obj\Debug\Math1.Form1.resources
