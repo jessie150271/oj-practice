@@ -1,3 +1,3 @@
 # Online Judge Practice
 my online judge practice,
-including c/c++/c#/javascript
+including c/c++/c#
