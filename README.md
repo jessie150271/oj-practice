@@ -1,3 +1,2 @@
 # Online Judge Practice
-my online judge practice,
-including C/C++/C#
+My online judge practice, including C/C++/C#.
